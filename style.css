@@ -1,0 +1,26 @@
+.home{
+    background-color: beige;
+}
+.arpanet{
+    background-color: rgb(134, 197, 218);
+}
+.isps{
+    background-color: lightgreen;
+}
+.mailbox{
+    background-color: blanchedalmond;
+}
+.email{
+    background-color: lightsalmon;
+}
+.aol{
+    background-color: darkgoldenrod;
+}
+.navbar{
+    opacity: 60%;
+    color: gray;
+}
+.nav-item{
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
