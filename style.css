@@ -25,3 +25,14 @@
     font-family: Arial, Helvetica, sans-serif;
     
 }
+img{
+    height: 300px;
+    width: 300px;
+}
+.c{
+    height: 600px;
+    width: auto;
+}
+h1{
+    text-align: center;
+}
